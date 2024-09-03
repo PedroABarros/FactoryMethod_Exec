@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0b2c6845-c047-4f9c-abb6-6c3ad561f05e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/FactoryMethod/...txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FactoryMethod/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FactoryMethod/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FactoryMethod/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FactoryMethod/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FactoryMethod/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FactoryMethod/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FactoryMethod/FactoryMethod.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FactoryMethod/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FactoryMethod/src/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FactoryMethod/src/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FactoryMethod/src/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FactoryMethod/src/main/java/org/example/Arquivo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FactoryMethod/src/main/java/org/example/Dispositivo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FactoryMethod/src/main/java/org/example/Html.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FactoryMethod/src/main/java/org/example/projetoFactoryMethod.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FactoryMethod/target/classes/org/example/Dispositivo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FactoryMethod/target/classes/org/example/Html.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2lZaZxv6EvKgBB1WEuflYvgbbTO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Cliente/Documents/git/FactoryMethod_Exec",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-22-openjdk-22-4caba194b151-f504ca98" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0b2c6845-c047-4f9c-abb6-6c3ad561f05e" name="Changes" comment="" />
+      <created>1725390114922</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1725390114922</updated>
+      <workItem from="1725390117603" duration="55000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
