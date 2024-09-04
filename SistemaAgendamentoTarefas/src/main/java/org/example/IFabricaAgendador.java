@@ -1,5 +1,5 @@
 package org.example;
 
-public interface FabricaAgendador {
+public interface IFabricaAgendador {
     Agendador criarAgendador();
 }
